@@ -27,7 +27,7 @@ export const AboutMe = (props: Props) => {
         <h4 className="mb-1 text-black dark:text-white text-[18px]">{t('myJob')}</h4>
         <p className="text-black dark:text-white text-xs">
           <em>
-            {t('myEnthusiasm')} <br />
+            {/* {t('myEnthusiasm')} <br /> */}
             {t('hobby')} <br />
             <br />
           </em>

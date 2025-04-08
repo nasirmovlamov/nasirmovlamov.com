@@ -5,9 +5,6 @@ import { useTranslation } from 'react-i18next';
 
 const Home: NextPage = () => {
   const { t } = useTranslation();
-  useEffect(() => {
-    console.log('hello');
-  }, [t]);
   return <AboutMe />;
 };
 
