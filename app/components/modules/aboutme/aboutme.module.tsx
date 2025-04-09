@@ -6,7 +6,7 @@ import {
 
 import Image from 'next/image';
 import { useTranslation } from 'react-i18next';
-import nasirmovlamov2 from '../../../styles/media/images/nasirmovlamov2.jpeg';
+import nasirmovlamov3 from '../../../styles/media/images/nasirmovlamov3.jpeg';
 import { StyledPersonImage } from './aboutme.styled';
 import { useContext, useEffect } from 'react';
 import { GlobalContext } from '@store/context/global.context';
@@ -36,7 +36,7 @@ export const AboutMe = (props: Props) => {
 
       <div className="flex md:order-2 order-1">
         <StyledPersonImage>
-          <Image src={nasirmovlamov2} alt="image of Nasir Movlamov" />
+          <Image src={nasirmovlamov3} alt="image of Nasir Movlamov" />
         </StyledPersonImage>
       </div>
     </div>
