@@ -67,7 +67,7 @@ export const resources = {
       jobTitle: 'Job title',
       education: 'Education',
       educationInfo:
-        'I graduated from ASOIU with a BS in Computer Engineering in 2022 and completed an MS in Artificial Intelligence at ASOIU in 2024. I am currently serving in the army.',
+        'I graduated from ASOIU with a BS in Computer Engineering in 2022 and completed an MS in Artificial Intelligence at ASOIU in 2024.',
       ytSubscribers: 'Youtube Subscribers',
       ytViews: 'Youtube Views',
       ytWatchTime: 'Youtube Watch Time',
