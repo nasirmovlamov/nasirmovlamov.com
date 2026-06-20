@@ -129,6 +129,14 @@ interface Note {
 
 const notes: Note[] = [
   {
+    id: '13',
+    title: 'Constraints = Power',
+    content: 'Constraints remove decision fatigue and force creativity. When you deliberately limit scope, tools, or time, you channel energy into execution instead of endless options.',
+    quote: 'Constraints are not blockers—they are multipliers for focus.',
+    tag: 'Focus',
+    date: '2024-11-15'
+  },
+  {
     id: '1',
     title: 'The 4 Things You Need To Be An Expert',
     content: 'Based on Veritasium\'s video: 1. Valid Environment - Your field must have learnable patterns, not inherent randomness. Politics is unpredictable; physics follows laws. 2. Repetitions - You need multiple attempts to practice. Musical instruments, coding, public speaking allow this; winning elections doesn\'t. 3. Timely Feedback - Get quick feedback on your attempts. Solving equations gives immediate verification. Without it, you can\'t know if you\'re on the right path. 4. Deliberate Practice - Don\'t just repeat in comfort. Challenge yourself, change environments, push boundaries. Growth happens outside your comfort zone.',
